@@ -1,7 +1,7 @@
 # itstack-demo-netty netty4.x案例
 微信公众号：bugstack虫洞栈，欢迎您的关注&获取更多案例与源码！博客栈：https://bugstack.cn 
 
-本专题针对netty4.x分为从；基础入门篇(八章)、中级拓展篇(八章)、高级应用篇(四章)，由浅入深实现netty服务功能，介绍netty如何从上手到实战。
+本专题针对netty4.x分为从；基础入门篇(八章)、中级拓展篇(八章)、高级应用篇(三章)，由浅入深实现netty服务功能，介绍netty如何从上手到实战。
 
 ## 基础入门篇(八章)
 - [netty案例，netty4.1基础入门篇一《嗨！NettyServer》](https://bugstack.cn/?p=27)
