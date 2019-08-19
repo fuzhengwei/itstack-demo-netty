@@ -23,10 +23,10 @@
 - [netty案例，netty4.1中级拓展篇七《Netty请求响应同步通信》](https://bugstack.cn/?p=164)
 - [netty案例，netty4.1中级拓展篇八《Netty心跳服务与断线重连》](https://bugstack.cn/?p=166)
 
-## 高级应用篇(四章)
-- 手写RPC框架第一章《自定义配置xml》
-- 手写RPC框架第二章《netty通信》
-- 手写RPC框架第三章《RPC中间件》
+## 高级应用篇(三章)
+- [手写RPC框架第一章《自定义配置xml》](https://bugstack.cn/?p=31)
+- [手写RPC框架第二章《netty通信》](https://bugstack.cn/?p=35)
+- [手写RPC框架第三章《RPC中间件》](https://bugstack.cn/?p=40)
 
 ------------
 
