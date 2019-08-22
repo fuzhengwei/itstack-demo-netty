@@ -1,9 +1,9 @@
 # itstack-demo-netty netty4.x案例
 微信公众号：bugstack虫洞栈，欢迎您的关注&获取更多案例与源码！博客栈：https://bugstack.cn 
 
-本专题针对netty4.x分为从；基础入门篇(八章)、中级拓展篇(八章)、高级应用篇(三章)，由浅入深实现netty服务功能，介绍netty如何从上手到实战。
+本专题针对netty4.x分为从；基础入门篇(九篇)、中级拓展篇(八篇)、高级应用篇(三章)，由浅入深实现netty服务功能，介绍netty如何从上手到实战。
 
-## 基础入门篇(八章)
+## 基础入门篇(九篇)
 - [netty案例，netty4.1基础入门篇一《嗨！NettyServer》](https://bugstack.cn/?p=27)
 - [netty案例，netty4.1基础入门篇二《NettyServer接收数据》](https://bugstack.cn/?p=88)
 - [netty案例，netty4.1基础入门篇三《NettyServer字符串解码器》](https://bugstack.cn/?p=92)
@@ -12,8 +12,9 @@
 - [netty案例，netty4.1基础入门篇六《NettyServer群发消息》](https://bugstack.cn/?p=99)
 - [netty案例，netty4.1基础入门篇七《嗨！NettyClient》](https://bugstack.cn/?p=103)
 - [netty案例，netty4.1基础入门篇八《NettyClient半包粘包处理、编码解码处理、收发数据方式》](https://bugstack.cn/?p=110)
- 
-## 中级拓展篇(八章)
+- [netty案例，netty4.1基础入门篇八《自定义编码解码器》](https://bugstack.cn/?p=169)
+
+## 中级拓展篇(八篇)
 - [netty案例，netty4.1中级拓展篇一《Netty与SpringBoot整合》](https://bugstack.cn/?p=111)
 - [netty案例，netty4.1中级拓展篇二《Netty使用Protobuf传输数据》](https://bugstack.cn/?p=118)
 - [netty案例，netty4.1中级拓展篇三《Netty传输Java对象》](https://bugstack.cn/?p=122)
