@@ -12,7 +12,7 @@
 - [netty案例，netty4.1基础入门篇六《NettyServer群发消息》](https://bugstack.cn/?p=99)
 - [netty案例，netty4.1基础入门篇七《嗨！NettyClient》](https://bugstack.cn/?p=103)
 - [netty案例，netty4.1基础入门篇八《NettyClient半包粘包处理、编码解码处理、收发数据方式》](https://bugstack.cn/?p=110)
-- [netty案例，netty4.1基础入门篇八《自定义编码解码器》](https://bugstack.cn/?p=169)
+- [netty案例，netty4.1基础入门篇九《自定义编码解码器》](https://bugstack.cn/?p=169)
 
 ## 中级拓展篇(八篇)
 - [netty案例，netty4.1中级拓展篇一《Netty与SpringBoot整合》](https://bugstack.cn/?p=111)
