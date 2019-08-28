@@ -1,9 +1,9 @@
 # itstack-demo-netty netty4.x案例
 微信公众号：bugstack虫洞栈，欢迎您的关注&获取更多案例与源码！博客栈：https://bugstack.cn 
 
-本专题针对netty4.x分为从；基础入门篇(九篇)、中级拓展篇(八篇)、高级应用篇(三章)，由浅入深实现netty服务功能，介绍netty如何从上手到实战。
+本专题针对netty4.x分为从；基础入门篇(十篇)、中级拓展篇(八篇)、高级应用篇(三章)，由浅入深实现netty服务功能，介绍netty如何从上手到实战。{给个Star吧！}
 
-## 基础入门篇(九篇)
+## 基础入门篇(十篇)
 - [netty案例，netty4.1基础入门篇一《嗨！NettyServer》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724732&idx=1&sn=39f47381b6f95b9f5ddd4385c10e50dd&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1基础入门篇二《NettyServer接收数据》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724754&idx=1&sn=0d4ab65a57edc69f31357f42e4327279&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1基础入门篇三《NettyServer字符串解码器》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724760&idx=1&sn=4e5faf45de87e2c7346e9053628b51b0&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
@@ -12,7 +12,8 @@
 - [netty案例，netty4.1基础入门篇六《NettyServer群发消息》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724778&idx=1&sn=72e4b1ea5323475b16e99c6720c7069d&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1基础入门篇七《嗨！NettyClient》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724783&idx=1&sn=bc827e680ebd533fe67720fd695257be&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1基础入门篇八《NettyClient半包粘包处理、编码解码处理、收发数据方式》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724791&idx=1&sn=24fa3bf35922abbc54a95d7d724902cd&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
-- [netty案例，netty4.1基础入门篇九《自定义编码解码器》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724871&idx=1&sn=83b4d8ac95962f2c0043e25f207cb7d7&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
+- [netty案例，netty4.1基础入门篇九《自定义编码解码器，处理半包、粘包数据》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724871&idx=1&sn=83b4d8ac95962f2c0043e25f207cb7d7&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
+- [netty案例，netty4.1基础入门篇十《关于ChannelOutboundHandlerAdapter简单使用》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724887&idx=1&sn=de3a948d945151f78f7ee277e728043e&scene=19&token=540761663&lang=zh_CN#wechat_redirect)
 
 ## 中级拓展篇(八篇)
 - [netty案例，netty4.1中级拓展篇一《Netty与SpringBoot整合》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724796&idx=1&sn=ce5dc3c913d464b0e2e4e429a17bb01e&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
