@@ -40,6 +40,7 @@
         <module>itstack-demo-netty-2-06</module>
         <module>itstack-demo-netty-2-07</module>
         <module>itstack-demo-netty-2-08</module>
+        <module>itstack-demo-netty-2-09</module>
     </modules>
 
     <dependencies>
