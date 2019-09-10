@@ -2,7 +2,7 @@
 # itstack-demo-netty netty4.x案例
 微信公众号：bugstack虫洞栈，欢迎您的关注&获取更多案例与源码！博客栈：[https://bugstack.cn ](https://bugstack.cn)
 
-本专题针对netty4.x分为从；基础入门篇(十二篇)、中级拓展篇(九篇)、高级应用篇(三章)以及源码分析篇，由浅入深实现netty服务功能，介绍netty如何从上手到实战。{给个Star吧！}
+本专题针对netty4.x分为从；基础入门篇(十二篇)、中级拓展篇(十篇)、高级应用篇(三章)以及源码分析篇，由浅入深实现netty服务功能，介绍netty如何从上手到实战。{给个Star吧！}
 
 ## 基础入门篇(十二篇)
 - [netty案例，netty4.1基础入门篇一《嗨！NettyServer》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724732&idx=1&sn=39f47381b6f95b9f5ddd4385c10e50dd&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
@@ -18,7 +18,7 @@
 - [netty案例，netty4.1基础入门篇十一《netty udp通信方式案例Demo》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724927&idx=1&sn=a16bc8e98d6a27816da0896adcc83778&chksm=8f613bddb816b2cbb8eb7a4f332c547166568f55eff00448e19c5a0dfcf1b2934ff2d99f1407&token=1596842785&lang=zh_CN#rd)
 - [netty案例，netty4.1基础入门篇十二《简单实现一个基于Netty搭建的Http服务》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724932&idx=1&sn=eb1631ddbd0e7a0dcb3a655374631f48&chksm=8f613ba6b816b2b03752cedd89ae451e671ad8727ad4be2d777c88b96c6487212d11d3dcd6fc&token=1872860325&lang=zh_CN#rd)
 
-## 中级拓展篇(九篇)
+## 中级拓展篇(十篇)
 - [netty案例，netty4.1中级拓展篇一《Netty与SpringBoot整合》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724796&idx=1&sn=ce5dc3c913d464b0e2e4e429a17bb01e&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1中级拓展篇二《Netty使用Protobuf传输数据》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724807&idx=1&sn=e0d27e61423a8cf0ed7bc0b9663d1ff7&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1中级拓展篇三《Netty传输Java对象》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724806&idx=1&sn=bb986119b9cdd950e2e6d995295e7f06&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
@@ -28,6 +28,7 @@
 - [netty案例，netty4.1中级拓展篇七《Netty请求响应同步通信》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724835&idx=1&sn=93fc37b8c35b19f91ef246632a37bab9&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1中级拓展篇八《Netty心跳服务与断线重连》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724845&idx=1&sn=8631c590ff4876ba0b7af64df16fc54b&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1中级拓展篇九《Netty集群部署实现跨服务端通信的落地方案》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724922&idx=1&sn=5af75ca113cf473c9e5a8deee7c256a2&chksm=8f613bd8b816b2ce3f2b227122ad09d9f18f20c131a16841fb6b44a59224fb0e6527e67bbeda&token=932005726&lang=zh_CN#rd)
+- [netty案例，netty4.1中级拓展篇十《Netty接收发送多种协议消息类型的通信处理方案》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724938&idx=1&sn=646cf29dc8e5da92151a3207bbc129e4&chksm=8f613ba8b816b2be6ae702d330d6d89b0a225c76e4ee570dfead81e67b1a33b110d5098fe59f&token=87478305&lang=zh_CN#rd)
 
 ## 高级应用篇(三章)
 - [手写RPC框架第一章《自定义配置xml》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724509&idx=1&sn=ee1ed819d09d7e34bde1ce7d3a2acca6&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
@@ -38,5 +39,6 @@
 - [netty案例，netty4.1源码分析篇一《NioEventLoopGroup源码分析》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724880&idx=1&sn=2ae28b11fd51fbb5fffe48f80e5f05d1&chksm=8f613bf2b816b2e45df702b03a3473e47292784000a5e2bc12b6f99e8cc59006a1cb564d5a30&token=1869209761&lang=zh_CN#rd)
 - [netty案例，netty4.1源码分析篇二《ServerBootstrap配置与绑定启动》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724901&idx=1&sn=7203f80a077c80fc544214a9a9806571&chksm=8f613bc7b816b2d116030107ee41984e738ae9ec7d0740e97eed84259d52d00bc082d441ef38&token=1869209761&lang=zh_CN#rd)
 - [netty案例，netty4.1源码分析篇三《Netty服务端初始化过程以及反射工厂的作用》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724906&idx=1&sn=69cbfe07f7634b5d022a0d0c1a7e16ca&chksm=8f613bc8b816b2ded4172e54078f76f2113ada2643f87586b3576402c594afa13a3f70a449d6&token=1869209761&lang=zh_CN#rd)
+
 ------------
 ![微信公众号：bugstack虫洞栈，欢迎您的关注&获取源码！](https://bugstack.cn/wp-content/uploads/2019/08/qrcode清晰.png)
