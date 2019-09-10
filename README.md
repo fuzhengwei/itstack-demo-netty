@@ -41,4 +41,4 @@
 - [netty案例，netty4.1源码分析篇三《Netty服务端初始化过程以及反射工厂的作用》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724906&idx=1&sn=69cbfe07f7634b5d022a0d0c1a7e16ca&chksm=8f613bc8b816b2ded4172e54078f76f2113ada2643f87586b3576402c594afa13a3f70a449d6&token=1869209761&lang=zh_CN#rd)
 
 ------------
-![微信公众号：bugstack虫洞栈，欢迎您的关注&获取源码！](https://bugstack.cn/wp-content/uploads/2019/08/qrcode清晰.png)
+![微信公众号：bugstack虫洞栈，欢迎关注&获取源码](https://bugstack.cn/wp-content/uploads/2019/08/名片.png)
