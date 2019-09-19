@@ -2,7 +2,7 @@
 # itstack-demo-netty netty4.x案例
 微信公众号：bugstack虫洞栈，欢迎您的关注&获取更多案例与源码！博客栈：[https://bugstack.cn ](https://bugstack.cn)
 
-本专题针对netty4.x分为从；基础入门篇(十二篇)、中级拓展篇(十篇)、高级应用篇(三章)以及源码分析篇，由浅入深实现netty服务功能，介绍netty如何从上手到实战。{给个Star吧！}
+本专题针对netty4.x分为从；基础入门篇(十二篇)、中级拓展篇(十二篇)、高级应用篇(三章+)以及源码分析篇，由浅入深通过案例实战学习netty，使netty学习者快速上手到实用。{那么，给个Star星星吧！}
 
 ## 基础入门篇(十二篇)
 - [netty案例，netty4.1基础入门篇一《嗨！NettyServer》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724732&idx=1&sn=39f47381b6f95b9f5ddd4385c10e50dd&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
@@ -28,17 +28,21 @@
 - [netty案例，netty4.1中级拓展篇七《Netty请求响应同步通信》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724835&idx=1&sn=93fc37b8c35b19f91ef246632a37bab9&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1中级拓展篇八《Netty心跳服务与断线重连》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724845&idx=1&sn=8631c590ff4876ba0b7af64df16fc54b&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1中级拓展篇九《Netty集群部署实现跨服务端通信的落地方案》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724922&idx=1&sn=5af75ca113cf473c9e5a8deee7c256a2&chksm=8f613bd8b816b2ce3f2b227122ad09d9f18f20c131a16841fb6b44a59224fb0e6527e67bbeda&token=932005726&lang=zh_CN#rd)
-- [netty案例，netty4.1中级拓展篇十《Netty接收发送多种协议消息类型的通信处理方案》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724938&idx=1&sn=646cf29dc8e5da92151a3207bbc129e4&chksm=8f613ba8b816b2be6ae702d330d6d89b0a225c76e4ee570dfead81e67b1a33b110d5098fe59f&token=87478305&lang=zh_CN#rd)
+- [netty案例，netty4.1中级拓展篇十《Netty接收发送多种协议消息类型的通信处理方案》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724938&idx=1&sn=646cf29dc8e5da92151a3207bbc129e4&chksm=8f613ba8b816b2be6ae702d330d6d89b0a225c76e4ee570dfead81e67b1a33b110d5098fe59f&token=178418407&lang=zh_CN#rd)
+- [netty案例，netty4.1中级拓展篇十一《Netty基于ChunkedStream数据流切块传输》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724953&idx=1&sn=42a0031e9b757f4d941a02b686e64e12&chksm=8f613bbbb816b2ad495fbe3a3f645ff74b722a851deb54b39aeaba975d934c4f1eabada40339&token=178418407&lang=zh_CN#rd)
+- [netty案例，netty4.1中级拓展篇十二《Netty流量整形数据流速率控制分析与实战》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724964&idx=1&sn=304e3cc882516c36a452a2712910858e&chksm=8f613b86b816b290ca3768c36a79484dfb28e844bf6e092c2f84bdf3eb291cf3ddc792db6108&token=178418407&lang=zh_CN#rd)
 
 ## 高级应用篇(三章)
 - [手写RPC框架第一章《自定义配置xml》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724509&idx=1&sn=ee1ed819d09d7e34bde1ce7d3a2acca6&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [手写RPC框架第二章《netty通信》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=503240874&idx=1&sn=053799da7ac8cd068ed086aa453ceeaf&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [手写RPC框架第三章《RPC中间件》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=503240878&idx=1&sn=9ba8180767237b439960363ecd2be779&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
+- [基于Netty实践搭建的物联网网关iot-gatway](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724958&idx=1&sn=d26b475519c3a6baaf2e66be8b683d08&chksm=8f613bbcb816b2aab049219008e118a3b2ad37f02688be1028a5f882c20f446b1d76c05e241f&token=178418407&lang=zh_CN#rd)
 
 ## 源码分析篇
 - [netty案例，netty4.1源码分析篇一《NioEventLoopGroup源码分析》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724880&idx=1&sn=2ae28b11fd51fbb5fffe48f80e5f05d1&chksm=8f613bf2b816b2e45df702b03a3473e47292784000a5e2bc12b6f99e8cc59006a1cb564d5a30&token=1869209761&lang=zh_CN#rd)
 - [netty案例，netty4.1源码分析篇二《ServerBootstrap配置与绑定启动》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724901&idx=1&sn=7203f80a077c80fc544214a9a9806571&chksm=8f613bc7b816b2d116030107ee41984e738ae9ec7d0740e97eed84259d52d00bc082d441ef38&token=1869209761&lang=zh_CN#rd)
 - [netty案例，netty4.1源码分析篇三《Netty服务端初始化过程以及反射工厂的作用》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724906&idx=1&sn=69cbfe07f7634b5d022a0d0c1a7e16ca&chksm=8f613bc8b816b2ded4172e54078f76f2113ada2643f87586b3576402c594afa13a3f70a449d6&token=1869209761&lang=zh_CN#rd)
+- [netty案例，netty4.1源码分析篇四《ByteBuf的数据结构在使用方式中的剖析》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724948&idx=1&sn=ab33e0c49d58903e463561082d124526&chksm=8f613bb6b816b2a05d508a5e7976afd751b0353d3c2edd805b012f6ab0d7ad32b51c99958d6f&token=178418407&lang=zh_CN#rd)
 
-## 关注公众号：bugstack虫洞栈 | 获取专题案例源码
-![微信公众号：bugstack虫洞栈，欢迎您的关注&获取源码！](https://bugstack.cn/wp-content/uploads/2019/08/qrcode清晰.png)
+------------
+![微信公众号：bugstack虫洞栈，欢迎关注&获取源码](https://bugstack.cn/wp-content/uploads/2019/08/名片.png)
