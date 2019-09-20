@@ -1,5 +1,5 @@
 
-# itstack-demo-netty netty4.x案例
+# itstack-demo-netty netty4.x案例 | 跟着案例学Netty
 微信公众号：bugstack虫洞栈，欢迎您的关注&获取更多案例与源码！博客栈：[https://bugstack.cn ](https://bugstack.cn)
 
 本专题针对netty4.x分为从；基础入门篇(十二篇)、中级拓展篇(十二篇)、高级应用篇(三章+)以及源码分析篇，由浅入深通过案例实战学习netty，使netty学习者快速上手到实用。{那么，给个Star星星吧！}
@@ -43,8 +43,7 @@
 - [netty案例，netty4.1源码分析篇二《ServerBootstrap配置与绑定启动》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724901&idx=1&sn=7203f80a077c80fc544214a9a9806571&chksm=8f613bc7b816b2d116030107ee41984e738ae9ec7d0740e97eed84259d52d00bc082d441ef38&token=1869209761&lang=zh_CN#rd)
 - [netty案例，netty4.1源码分析篇三《Netty服务端初始化过程以及反射工厂的作用》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724906&idx=1&sn=69cbfe07f7634b5d022a0d0c1a7e16ca&chksm=8f613bc8b816b2ded4172e54078f76f2113ada2643f87586b3576402c594afa13a3f70a449d6&token=1869209761&lang=zh_CN#rd)
 - [netty案例，netty4.1源码分析篇四《ByteBuf的数据结构在使用方式中的剖析》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724948&idx=1&sn=ab33e0c49d58903e463561082d124526&chksm=8f613bb6b816b2a05d508a5e7976afd751b0353d3c2edd805b012f6ab0d7ad32b51c99958d6f&token=178418407&lang=zh_CN#rd)
+- [netty案例，netty4.1源码分析篇五《一行简单的writeAndFlush都做了哪些事》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724970&idx=1&sn=c2f9592392da491eaa2b1d33024ac73b&chksm=8f613b88b816b29e370980c4b9bc3d1890322bfd72ce6eead3899bcb4e34f284ff9551412912&token=1628536267&lang=zh_CN#rd)
 
 ------------
-![微信公众号：bugstack虫洞栈，欢迎关注&获取源码](https://bugstack.cn/wp-content/uploads/2019/08/名片.png)
-
-![](https://github.com/fuzhengwei/itstack-demo-netty/blob/master/bugstack.png)
+![微信公众号：bugstack虫洞栈，欢迎关注&获取源码](https://github.com/fuzhengwei/itstack-demo-netty/blob/master/bugstack.png)
