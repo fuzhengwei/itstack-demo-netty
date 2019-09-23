@@ -2,7 +2,7 @@
 # itstack-demo-netty netty4.x案例 | 跟着案例学Netty
 微信公众号：bugstack虫洞栈，欢迎您的关注&获取更多案例与源码！博客栈：[https://bugstack.cn ](https://bugstack.cn)
 
-本专题针对netty4.x分为从；基础入门篇(十二篇)、中级拓展篇(十二篇)、高级应用篇(三章+)以及源码分析篇，由浅入深通过案例实战学习netty，使netty学习者快速上手到实用。{那么，给个Star星星吧！}
+本专题针对netty4.x分为从；基础入门篇(十二篇)、中级拓展篇(十三篇)、高级应用篇(三章+)以及源码分析篇，由浅入深通过案例实战学习netty，使netty学习者快速上手到实用。{那么，给个Star星星吧！}
 
 ## 基础入门篇(十二篇)
 - [netty案例，netty4.1基础入门篇一《嗨！NettyServer》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724732&idx=1&sn=39f47381b6f95b9f5ddd4385c10e50dd&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
@@ -18,7 +18,7 @@
 - [netty案例，netty4.1基础入门篇十一《netty udp通信方式案例Demo》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724927&idx=1&sn=a16bc8e98d6a27816da0896adcc83778&chksm=8f613bddb816b2cbb8eb7a4f332c547166568f55eff00448e19c5a0dfcf1b2934ff2d99f1407&token=1596842785&lang=zh_CN#rd)
 - [netty案例，netty4.1基础入门篇十二《简单实现一个基于Netty搭建的Http服务》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724932&idx=1&sn=eb1631ddbd0e7a0dcb3a655374631f48&chksm=8f613ba6b816b2b03752cedd89ae451e671ad8727ad4be2d777c88b96c6487212d11d3dcd6fc&token=1872860325&lang=zh_CN#rd)
 
-## 中级拓展篇(十二篇)
+## 中级拓展篇(十三篇)
 - [netty案例，netty4.1中级拓展篇一《Netty与SpringBoot整合》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724796&idx=1&sn=ce5dc3c913d464b0e2e4e429a17bb01e&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1中级拓展篇二《Netty使用Protobuf传输数据》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724807&idx=1&sn=e0d27e61423a8cf0ed7bc0b9663d1ff7&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1中级拓展篇三《Netty传输Java对象》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724806&idx=1&sn=bb986119b9cdd950e2e6d995295e7f06&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
