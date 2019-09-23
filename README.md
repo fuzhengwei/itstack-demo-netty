@@ -31,7 +31,7 @@
 - [netty案例，netty4.1中级拓展篇十《Netty接收发送多种协议消息类型的通信处理方案》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724938&idx=1&sn=646cf29dc8e5da92151a3207bbc129e4&chksm=8f613ba8b816b2be6ae702d330d6d89b0a225c76e4ee570dfead81e67b1a33b110d5098fe59f&token=178418407&lang=zh_CN#rd)
 - [netty案例，netty4.1中级拓展篇十一《Netty基于ChunkedStream数据流切块传输》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724953&idx=1&sn=42a0031e9b757f4d941a02b686e64e12&chksm=8f613bbbb816b2ad495fbe3a3f645ff74b722a851deb54b39aeaba975d934c4f1eabada40339&token=178418407&lang=zh_CN#rd)
 - [netty案例，netty4.1中级拓展篇十二《Netty流量整形数据流速率控制分析与实战》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724964&idx=1&sn=304e3cc882516c36a452a2712910858e&chksm=8f613b86b816b290ca3768c36a79484dfb28e844bf6e092c2f84bdf3eb291cf3ddc792db6108&token=178418407&lang=zh_CN#rd)
-- [netty案例，netty4.1中级拓展篇十三《Netty流量整形数据流速率控制分析与实战》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724977&idx=1&sn=cab1a02be74a62d8184c18abc5eba6b5&chksm=8f613b93b816b2850b17a05b74d7debec11eb3dfaa8d9763f1af63825b3e24685bcddd10a38e&token=1898926011&lang=zh_CN#rd)
+- [netty案例，netty4.1中级拓展篇十三《Netty基于SSL实现信息传输过程中双向加密验证》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724977&idx=1&sn=cab1a02be74a62d8184c18abc5eba6b5&chksm=8f613b93b816b2850b17a05b74d7debec11eb3dfaa8d9763f1af63825b3e24685bcddd10a38e&token=1898926011&lang=zh_CN#rd)
 
 ## 高级应用篇(三章+)
 - [手写RPC框架第一章《自定义配置xml》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724509&idx=1&sn=ee1ed819d09d7e34bde1ce7d3a2acca6&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
