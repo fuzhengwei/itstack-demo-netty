@@ -9,7 +9,7 @@ package org.itstack.demo.test;
 public class ApiTest {
 
     public static void main(String[] args) {
-        System.out.println("hi bugstack虫洞栈");
+        System.out.println("hi bugstack虫洞栈 | 欢迎关注公众号，获取源码");
     }
 
 }
