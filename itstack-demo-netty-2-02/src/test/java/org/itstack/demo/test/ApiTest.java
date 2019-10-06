@@ -11,6 +11,8 @@ import org.itstack.demo.netty.domain.MsgBody;
 public class ApiTest {
 
     public static void main(String[] args) throws JsonFormat.ParseException {
+        System.out.println("hi 微信公众号：bugstack虫洞栈");
+
         MsgBody.Builder msg = MsgBody.newBuilder();
         msg.setChannelId("abD01223");
         msg.setMsgInfo("hi helloworld");
