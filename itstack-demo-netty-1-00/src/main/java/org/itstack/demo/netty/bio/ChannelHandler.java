@@ -24,7 +24,7 @@ public class ChannelHandler {
         OutputStream out = null;
         try {
             out = socket.getOutputStream();
-            out.write((msg.toString()).getBytes(Charset.forName("utf-8")));
+            out.write((msg.toString()).getBytes(charset));
             out.flush();
         } catch (IOException e) {
             e.printStackTrace();

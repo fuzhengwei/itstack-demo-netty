@@ -19,6 +19,7 @@ public abstract class ChannelAdapter extends Thread {
 
     public ChannelAdapter(Socket socket, Charset charset) {
         this.socket = socket;
+        this.charset = charset;
         while (!socket.isConnected()) {
             break;
         }
@@ -29,7 +30,7 @@ public abstract class ChannelAdapter extends Thread {
     @Override
     public void run() {
         try {
-            BufferedReader input = new BufferedReader(new InputStreamReader(this.socket.getInputStream()));
+            BufferedReader input = new BufferedReader(new InputStreamReader(this.socket.getInputStream(), charset));
             String str = null;
             while ((str = input.readLine()) != null) {
                 channelRead(channelHandler, str);

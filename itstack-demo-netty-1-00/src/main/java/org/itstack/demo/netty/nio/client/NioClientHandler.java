@@ -5,7 +5,6 @@ import org.itstack.demo.netty.nio.ChannelAdapter;
 import org.itstack.demo.netty.nio.ChannelHandler;
 
 import java.io.IOException;
-import java.net.Socket;
 import java.nio.channels.Selector;
 import java.nio.charset.Charset;
 import java.text.SimpleDateFormat;
@@ -26,7 +25,7 @@ public class NioClientHandler extends ChannelAdapter {
     public void channelActive(ChannelHandler ctx) {
         try {
             System.out.println("链接报告LocalAddress:" + ctx.channel().getLocalAddress());
-            ctx.writeAndFlush("hi! 我是bugstack虫洞栈 BioClient to msg for you \r\n");
+            ctx.writeAndFlush("hi! 我是bugstack虫洞栈 NioClient to msg for you \r\n");
         } catch (IOException e) {
             e.printStackTrace();
         }
