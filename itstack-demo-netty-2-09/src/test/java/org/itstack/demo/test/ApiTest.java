@@ -12,6 +12,7 @@ import org.itstack.demo.netty.util.MsgUtil;
 public class ApiTest {
 
     public static void main(String[] args) {
+        System.out.println("公众号：bugstack虫洞栈 | 获取学习源码");
         MsgAgreement msgAgreement = MsgUtil.buildMsg("6e0216ea", "hi! I'm 微信公众号：bugstack虫洞栈 | 欢迎关注&获取源码。* 来自A服务端里用户向B服务端里用户发送信息。[结尾换行，用于处理半包粘包]");
         String json = MsgUtil.obj2Json(msgAgreement);
         System.out.println(json);
