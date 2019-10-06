@@ -55,6 +55,7 @@ public class ApiTest {
             f.channel().writeAndFlush("你好，SpringBoot启动的netty服务端，我是https://bugstack.cn博主，付政委。这是我的公众号<bugstack虫洞栈>，关注我获取全套源码。“我的结尾是一个换行符，用于传输半包粘包处理”\r\n");
             f.channel().writeAndFlush("你好，SpringBoot启动的netty服务端，我是https://bugstack.cn博主，付政委。这是我的公众号<bugstack虫洞栈>，关注我获取全套源码。“我的结尾是一个换行符，用于传输半包粘包处理”\r\n");
             f.channel().writeAndFlush("你好，SpringBoot启动的netty服务端，我是https://bugstack.cn博主，付政委。这是我的公众号<bugstack虫洞栈>，关注我获取全套源码。“我的结尾是一个换行符，用于传输半包粘包处理”\r\n");
+            f.channel().writeAndFlush("你好，SpringBoot启动的netty服务端，我是https://bugstack.cn博主，付政委。这是我的公众号<bugstack虫洞栈>，关注我获取全套源码。“我的结尾是一个换行符，用于传输半包粘包处理”\r\n");
 
             f.channel().closeFuture().syncUninterruptibly();
         } catch (InterruptedException e) {
