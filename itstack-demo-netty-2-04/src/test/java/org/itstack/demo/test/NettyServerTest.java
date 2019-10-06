@@ -11,6 +11,7 @@ import org.itstack.demo.netty.server.NettyServer;
 public class NettyServerTest {
 
     public static void main(String[] args) {
+        System.out.println("hi 微信公众号：bugstack虫洞栈");
         //启动服务
         new NettyServer().bing(7397);
     }
