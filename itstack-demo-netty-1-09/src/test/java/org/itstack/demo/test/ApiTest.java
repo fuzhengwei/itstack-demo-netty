@@ -17,6 +17,8 @@ public class ApiTest {
 
     public static void main(String[] args) {
 
+        System.out.println("hi 微信公众号：bugstack虫洞栈");
+
         ByteBuf in = Unpooled.buffer(5);
         byte[] bytes = {2, 50, 104, 105, 3};
         in.writeBytes(bytes);
