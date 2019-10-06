@@ -2,9 +2,10 @@
 # itstack-demo-netty netty4.x案例 | 跟着案例学Netty
 微信公众号：bugstack虫洞栈，欢迎您的关注&获取更多案例与源码！博客栈：[https://bugstack.cn ](https://bugstack.cn)
 
-本专题针对netty4.x分为从；基础入门篇(十二篇)、中级拓展篇(十三篇)、高级应用篇(三章+)以及源码分析篇，由浅入深通过案例实战学习netty，使netty学习者快速上手到实用。{那么，给个Star星星吧！}
+本专题针对netty4.x分为从；基础入门篇(十三篇)、中级拓展篇(十三篇)、高级应用篇(三章+)以及源码分析篇，由浅入深通过案例实战学习netty，使netty学习者快速上手到实用。{那么，给个Star星星吧！}
 
-## 基础入门篇(十二篇)
+## 基础入门篇(十三篇)
+- [netty案例，netty4.1基础入门篇零《初入JavaIO之门BIO、NIO、AIO实战练习》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724988&idx=1&sn=99a4f3677d2c5a9499cb06eba2cd37fe&chksm=8f613b9eb816b28876828985ab5b617fc2b3c33c3ae5227f29341e15bf50874fcfa736477d86&token=645297373&lang=zh_CN#rd)
 - [netty案例，netty4.1基础入门篇一《嗨！NettyServer》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724732&idx=1&sn=39f47381b6f95b9f5ddd4385c10e50dd&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1基础入门篇二《NettyServer接收数据》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724754&idx=1&sn=0d4ab65a57edc69f31357f42e4327279&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1基础入门篇三《NettyServer字符串解码器》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724760&idx=1&sn=4e5faf45de87e2c7346e9053628b51b0&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
