@@ -6,4 +6,9 @@ package org.itstack.demo.netty.client.test;
  * Create by fuzhengwei on 2019
  */
 public class ApiTest {
+
+    public static void main(String[] args) {
+        System.out.println("hi 微信公众号：bugstack虫洞栈");
+    }
+
 }
