@@ -26,6 +26,7 @@ import java.util.UUID;
 public class ApiTest {
 
     public static void main(String[] args) {
+        System.out.println("hi 微信公众号：bugstack虫洞栈");
         EventLoopGroup workerGroup = new NioEventLoopGroup();
         try {
             Bootstrap b = new Bootstrap();
