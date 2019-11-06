@@ -48,4 +48,4 @@
 - [netty案例，netty4.1源码分析篇五《一行简单的writeAndFlush都做了哪些事》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724970&idx=1&sn=c2f9592392da491eaa2b1d33024ac73b&chksm=8f613b88b816b29e370980c4b9bc3d1890322bfd72ce6eead3899bcb4e34f284ff9551412912&token=1628536267&lang=zh_CN#rd)
 - [netty案例，netty4.1源码分析篇六《Netty异步架构监听类Promise源码分析》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724983&idx=1&sn=36aaf2598cea0c6ce6ba1b1cb2ee450e&chksm=8f613b95b816b2837049080b95483b9a6fc56794fdf8716bf6732933b02ff07ad4e7be11a154&token=70507448&lang=zh_CN#rd)
 ------------
-![微信公众号：bugstack虫洞栈，欢迎关注&获取源码](https://github.com/fuzhengwei/itstack-demo-netty/blob/master/bugstack.png)
+![微信公众号：bugstack虫洞栈，欢迎关注&获取源码](https://bugstack.cn/wp-content/uploads/2019/09/%E5%90%8D%E7%89%872.png)
