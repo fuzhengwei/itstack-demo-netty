@@ -21,7 +21,7 @@ public class FileUtil {
         File file = new File(fileUrl);
         RandomAccessFile randomAccessFile = new RandomAccessFile(file, "r");//r: 只读模式 rw:读写模式
         randomAccessFile.seek(readPosition);
-        byte[] bytes = new byte[1024];
+        byte[] bytes = new byte[1024 * 100];
         int readSize = randomAccessFile.read(bytes);
         if (readSize <= 0) {
             randomAccessFile.close();
@@ -33,7 +33,7 @@ public class FileUtil {
         fileInfo.setBeginPos(readPosition);
         fileInfo.setEndPos(readPosition + readSize);
         //不足1024需要拷贝去掉空字节
-        if (readSize < 1024) {
+        if (readSize < 1024 * 100) {
             byte[] copy = new byte[readSize];
             System.arraycopy(bytes, 0, copy, 0, readSize);
             fileInfo.setBytes(copy);
