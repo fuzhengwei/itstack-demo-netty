@@ -39,6 +39,7 @@
 - [手写RPC框架第二章《netty通信》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=503240874&idx=1&sn=053799da7ac8cd068ed086aa453ceeaf&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [手写RPC框架第三章《RPC中间件》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=503240878&idx=1&sn=9ba8180767237b439960363ecd2be779&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [基于Netty实践搭建的物联网网关iot-gatway](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724958&idx=1&sn=d26b475519c3a6baaf2e66be8b683d08&chksm=8f613bbcb816b2aab049219008e118a3b2ad37f02688be1028a5f882c20f446b1d76c05e241f&token=178418407&lang=zh_CN#rd)
+- [websocket与下位机通过netty方式通信传输行为信息](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650725112&idx=1&sn=28bcd4fcdcac4eb6fe70ce65d0a1c172&chksm=8f613b1ab816b20c622f53e215a8478f09f76bb93c38a975149f01ff28b6e594209317d9fbfb&token=1234653459&lang=zh_CN#rd)
 
 ## 源码分析篇
 - [netty案例，netty4.1源码分析篇一《NioEventLoopGroup源码分析》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724880&idx=1&sn=2ae28b11fd51fbb5fffe48f80e5f05d1&chksm=8f613bf2b816b2e45df702b03a3473e47292784000a5e2bc12b6f99e8cc59006a1cb564d5a30&token=1869209761&lang=zh_CN#rd)
