@@ -22,6 +22,7 @@
     </properties>
 
     <modules>
+        <module>itstack-demo-netty-1-00</module>
         <module>itstack-demo-netty-1-01</module>
         <module>itstack-demo-netty-1-02</module>
         <module>itstack-demo-netty-1-03</module>
@@ -47,7 +48,7 @@
         <module>itstack-demo-netty-2-11</module>
         <module>itstack-demo-netty-2-12</module>
         <module>itstack-demo-netty-2-13</module>
-        <module>itstack-demo-netty-1-00</module>
+        <module>itstack-demo-netty-3-01</module>
     </modules>
 
     <dependencies>
