@@ -25,7 +25,7 @@
 - [netty案例，netty4.1中级拓展篇三《Netty传输Java对象》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724806&idx=1&sn=bb986119b9cdd950e2e6d995295e7f06&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1中级拓展篇四《Netty传输文件、分片发送、断点续传》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724816&idx=1&sn=dd4a5b492c9d0b07cffcf35e51ffd2fd&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1中级拓展篇五《基于Netty搭建WebSocket，模仿微信聊天页面》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724747&idx=1&sn=603319014b7fd4e1f56600abf03948d2&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
-- [netty案例，netty4.1中级拓展篇六《SpringBoot+Netty+Elasticsearch收集日志信息数据存储》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724747&idx=1&sn=603319014b7fd4e1f56600abf03948d2&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
+- [netty案例，netty4.1中级拓展篇六《SpringBoot+Netty+Elasticsearch收集日志信息数据存储》](https://mp.weixin.qq.com/s/Pob79caA9AuOuHBEhVvu-g)
 - [netty案例，netty4.1中级拓展篇七《Netty请求响应同步通信》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724835&idx=1&sn=93fc37b8c35b19f91ef246632a37bab9&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1中级拓展篇八《Netty心跳服务与断线重连》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724845&idx=1&sn=8631c590ff4876ba0b7af64df16fc54b&scene=19&token=583635275&lang=zh_CN#wechat_redirect)
 - [netty案例，netty4.1中级拓展篇九《Netty集群部署实现跨服务端通信的落地方案》](https://mp.weixin.qq.com/s?__biz=MzIxMDAwMDAxMw==&mid=2650724922&idx=1&sn=5af75ca113cf473c9e5a8deee7c256a2&chksm=8f613bd8b816b2ce3f2b227122ad09d9f18f20c131a16841fb6b44a59224fb0e6527e67bbeda&token=932005726&lang=zh_CN#rd)
