@@ -5,6 +5,7 @@ import java.net.InetSocketAddress;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
 
 /**
  * 博客：http://itstack.org
@@ -29,7 +30,7 @@ public class BioServer extends Thread {
             System.out.println("itstack-demo-netty bio server start done. {关注公众号：bugstack虫洞栈 | 欢迎关注&获取源码}");
             while (true) {
                 Socket socket = serverSocket.accept();
-                BioServerHandler handler = new BioServerHandler(socket, Charset.forName("GBK"));
+                BioServerHandler handler = new BioServerHandler(socket, StandardCharsets.UTF_8);
                 handler.start();
             }
         } catch (IOException e) {

@@ -16,7 +16,13 @@ import java.util.Date;
 public class BioClientHandler extends ChannelAdapter {
 
     public BioClientHandler(Socket socket, Charset charset) {
-        super(socket, charset);
+        super(socket, charset, true);
+        Runtime.getRuntime().addShutdownHook(new Thread() {
+            @Override
+            public void run() {
+                System.out.println("socket closed...");
+            }
+        });
     }
 
     @Override
@@ -28,6 +34,11 @@ public class BioClientHandler extends ChannelAdapter {
     @Override
     public void channelRead(ChannelHandler ctx, Object msg) {
         System.out.println(new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()) + " 接收到消息：" + msg);
+        try {
+            Thread.sleep(4000L);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         ctx.writeAndFlush("hi 我已经收到你的消息Success！\r\n");
     }
 

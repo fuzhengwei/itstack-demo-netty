@@ -16,15 +16,21 @@ public abstract class ChannelAdapter extends Thread {
     private Socket socket;
     private ChannelHandler channelHandler;
     private Charset charset;
+    private Boolean channelActive = false;
 
-    public ChannelAdapter(Socket socket, Charset charset) {
+    public ChannelAdapter(Socket socket, Charset charset, Boolean channelActive) {
         this.socket = socket;
         this.charset = charset;
+        this.channelActive = channelActive;
         while (!socket.isConnected()) {
             break;
         }
         channelHandler = new ChannelHandler(this.socket, charset);
-        channelActive(channelHandler);
+        System.out.println("ChannelAdapter构造函数，开启channelActive...");
+
+        if (this.channelActive) {
+            channelActive(channelHandler);
+        }
     }
 
     @Override
