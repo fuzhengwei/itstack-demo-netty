@@ -76,13 +76,15 @@
                 <version>2.0.4.RELEASE</version>
             </plugin>
         </plugins>
-        <resource>
-             <directory>src/main/webapp</directory>
-             <targetPath>META-INF/resources</targetPath>
-             <includes>
-                 <include>**/**</include>
-             </includes>  
-        </resource>        
+        <resources>
+            <resource>
+                <directory>src/main/webapp</directory>
+                <targetPath>META-INF/resources</targetPath>
+                <includes>
+                    <include>**/**</include>
+                </includes>
+            </resource>
+        </resources>
     </build>
     
 </project>
