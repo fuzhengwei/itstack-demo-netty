@@ -49,6 +49,7 @@
         <module>itstack-demo-netty-2-12</module>
         <module>itstack-demo-netty-2-13</module>
         <module>itstack-demo-netty-3-01</module>
+        <module>my_netty_demo</module>
     </modules>
 
     <dependencies>
